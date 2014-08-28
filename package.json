@@ -14,7 +14,7 @@
     "prompt": "~0.2.13",
     "cli-spinner": "~0.1.5",
     "stevedore": "~0.1.0",
-    "chokidar": "~0.8.4"
+    "graceful-chokidar": "~0.1.0"
   },
   "files": [
     "lib"
