@@ -1,6 +1,9 @@
 # gobble-cli
 
-Proper instructions coming soon....
+The command line interface for [Gobble](https://github.com/gobblejs/gobble), used for serving and building a project with a [gobblefile](https://github.com/gobblejs/gobble/wiki/How-to-write-a-gobblefile).
+
+
+## Installation
 
 ```bash
 npm i -g gobble-cli
@@ -34,8 +37,6 @@ Set the `--force` flag to clear out the target folder if it exists and is not em
 gobble build out --force
 gobble build out -f
 ```
-
-## More soon...
 
 
 ## License
