@@ -1,15 +1,15 @@
 {
   "name": "gobble-cli",
   "description": "Command line interface for gobble",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "author": "Rich Harris",
   "repository": "https://github.com/gobblejs/gobble-cli",
   "bin": {
     "gobble": "lib/index.js"
   },
   "dependencies": {
+    "chalk": "^0.5.1",
     "cli-spinner": "~0.1.5",
-    "colors": "~0.6.2",
     "graceful-chokidar": "~0.1.0",
     "interpret": "^0.3.7",
     "liftoff": "^0.13.2",
