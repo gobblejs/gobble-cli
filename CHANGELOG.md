@@ -1,5 +1,9 @@
 # changelog
 
+## 0.3.1
+
+* gobble-cli will attempt to print code that causes transformations to fail (e.g. syntax errors), and will trace back to the original file if sourcemaps are present (requires gobble 0.7.1 to be installed locally)
+
 ## 0.3.0
 
 * **BREAKING - requires gobble 0.7.0 or higher.** Tasks should emit `info` events with message codes, rather than strings.
