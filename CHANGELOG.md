@@ -1,5 +1,9 @@
 # changelog
 
+## 0.3.2
+
+* Fixes broken plugin auto-installation
+
 ## 0.3.1
 
 * gobble-cli will attempt to print code that causes transformations to fail (e.g. syntax errors), and will trace back to the original file if sourcemaps are present (requires gobble 0.7.1 to be installed locally)
