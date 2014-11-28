@@ -1,5 +1,9 @@
 # changelog
 
+## 0.3.3
+
+* Environment defaults to 'development' for `gobble`/`gobble watch`, 'production' for `gobble build`
+
 ## 0.3.2
 
 * Fixes broken plugin auto-installation
