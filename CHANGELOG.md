@@ -1,5 +1,9 @@
 # changelog
 
+## 0.3.4
+
+* Include `sorcery` as a dependency in package.json
+
 ## 0.3.3
 
 * Environment defaults to 'development' for `gobble`/`gobble watch`, 'production' for `gobble build`
