@@ -1,0 +1,10 @@
+{
+	"boss": true,
+	"undef": true,
+	"unused": true,
+	"globals": {
+		"module": true,
+		"require": true,
+		"process": true
+	}
+}

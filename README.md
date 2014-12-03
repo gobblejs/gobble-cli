@@ -12,9 +12,12 @@ npm i -g gobble-cli
 
 ## Usage
 
-Start a server and watch for changes, using the `gobblefile.js` in the current folder (or one of its ancestors).
+### Serving a project
+
+This will start a server and watch for changes, using the `gobblefile.js` in the current folder (or one of its ancestors).
 
 ```bash
+# you could also do `gobble serve` - it's the same thing
 gobble
 ```
 
@@ -25,7 +28,9 @@ gobble --port 1337
 gobble -p 1337
 ```
 
-Build the project to the `out` folder:
+### Building a project
+
+To build the project to the `out` folder:
 
 ```bash
 gobble build out
@@ -36,6 +41,14 @@ Set the `--force` flag to clear out the target folder if it exists and is not em
 ```bash
 gobble build out --force
 gobble build out -f
+```
+
+### Build to a specific folder, and watch for changes
+
+Like `gobble build`, except that the build will be updated whenver the source files change.
+
+```bash
+gobble watch out
 ```
 
 
