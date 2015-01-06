@@ -1,5 +1,14 @@
 # changelog
 
+## 0.3.5
+
+* Helpful error on missing build definition
+* Neater terminal messages
+* If `gobble build` fails, it does so with a non-zero error code
+* Current command (i.e. `serve`, `build` or `watch`) is added to environment as `GOBBLE_COMMAND`
+
+Thanks to [evs-chris](https://github.com/evs-chris) for these additions
+
 ## 0.3.4
 
 * Include `sorcery` as a dependency in package.json
