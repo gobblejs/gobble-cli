@@ -7,6 +7,7 @@
     gobble -v | --version
     gobble [serve] [-p|--port <port>] [-e|--env <env>]
     gobble build [-f|--force] [-e|--env <env>] <dest>
+    gobble watch [-f|--force] [-e|--env <env>] <dest>
 
   Options:
     -h --help      Show this message
