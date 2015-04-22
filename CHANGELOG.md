@@ -1,5 +1,15 @@
 # changelog
 
+## 0.4.0
+
+* Expect locally-installed gobble version to be 0.9.0 or greater
+* Squelch duplicate messages
+* Respect terminal width better when printing messages
+* `gobble --help` now inludes `gobble watch`
+* Very long messages are truncated
+* Display `inputdir` and `outputdir` for easier debugging, if these are provided in error messages
+* Prevent builds from hanging (regression with gobble 0.9.0)
+
 ## 0.3.5
 
 * Helpful error on missing build definition
