@@ -1,5 +1,9 @@
 # changelog
 
+## 0.4.1
+
+* Fix logging bug with small terminals ([#13](https://github.com/gobblejs/gobble-cli/issues/13)))
+
 ## 0.4.0
 
 * Expect locally-installed gobble version to be 0.9.0 or greater
