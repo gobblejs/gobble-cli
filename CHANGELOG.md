@@ -1,5 +1,9 @@
 # changelog
 
+## 0.4.2
+
+* Handle sourcemap events (from gobble 0.10.0 and later)
+
 ## 0.4.1
 
 * Fix logging bug with small terminals ([#13](https://github.com/gobblejs/gobble-cli/issues/13)))
