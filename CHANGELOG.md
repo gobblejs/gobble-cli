@@ -1,5 +1,9 @@
 # changelog
 
+## 0.4.4
+
+* Don't mind me...
+
 ## 0.4.3
 
 * More reliable error logging on Windows ([#17](https://github.com/gobblejs/gobble-cli/pull/17)))
