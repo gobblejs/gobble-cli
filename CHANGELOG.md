@@ -1,5 +1,9 @@
 # changelog
 
+## 0.5.0
+
+* Update to latest chokidar
+
 ## 0.4.4
 
 * Don't mind me...
