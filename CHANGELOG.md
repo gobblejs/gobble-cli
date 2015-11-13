@@ -2,7 +2,7 @@
 
 ## 0.6.0
 
-* Gracefully `fs`, to avoid issues on Windows ([#15](https://github.com/gobblejs/gobble-cli/pull/15))
+* Gracefulify `fs`, to avoid issues on Windows ([#15](https://github.com/gobblejs/gobble-cli/pull/15))
 * Update dependencies
 
 ## 0.5.0
