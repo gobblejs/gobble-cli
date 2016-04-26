@@ -1,5 +1,11 @@
 # changelog
 
+## 0.7.0
+
+* Switch to pathwatcher
+* Show port number on each build completion, if serving
+* Update dependencies
+
 ## 0.6.0
 
 * Gracefulify `fs`, to avoid issues on Windows ([#15](https://github.com/gobblejs/gobble-cli/pull/15))
