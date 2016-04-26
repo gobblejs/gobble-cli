@@ -45,7 +45,7 @@ gobble build out -f
 
 ### Build to a specific folder, and watch for changes
 
-Like `gobble build`, except that the build will be updated whenver the source files change.
+Like `gobble build`, except that the build will be updated whenever the source files change.
 
 ```bash
 gobble watch out
