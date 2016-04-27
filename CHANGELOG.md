@@ -1,5 +1,9 @@
 # changelog
 
+## 0.7.1
+
+* Watch gobblefile again when deleted (happens in editors which rename old files as backups)
+
 ## 0.7.0
 
 * Switch to pathwatcher
