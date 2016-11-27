@@ -1,5 +1,9 @@
 # changelog
 
+## 0.8.0
+
+* Switch back to chokidar. Argh
+
 ## 0.7.0
 
 * Switch to pathwatcher

@@ -1,7 +1,7 @@
 {
   "name": "gobble-cli",
   "description": "Command line interface for gobble",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "author": "Rich Harris",
   "license": "MIT",
   "repository": "https://github.com/gobblejs/gobble-cli",
@@ -18,7 +18,6 @@
     "interpret": "^1.0.0",
     "liftoff": "^2.1.0",
     "minimist": "^1.1.1",
-    "pathwatcher": "^6.5.0",
     "prompt": "^1.0.0",
     "semver": "^5.1.0",
     "sorcery": "^0.10.0",
